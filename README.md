@@ -1,1 +1,2 @@
-# python-roll-dice
+# ROLL DICE <br>
+Language used: Python
